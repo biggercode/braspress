@@ -1,0 +1,19 @@
+{
+    "name": "glauberportella/braspress",
+    "description": "PHP Library to use Braspress Webservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Glauber Portella",
+            "email": "glauberportella@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "classes/"
+        }
+    }
+}

@@ -27,9 +27,11 @@ Permite obter o prazo de entrega entre dois CEPs determinados.
 Contatos
 ========
 
+Glauber Portella
+E-mail: glauberportella@gmail.com
+Twitter: @glauberportella
+
 Ivan Wilhelm
-
 E-mail: ivan.whm@me.com
-
 Twitter: @ivanwhm
 
