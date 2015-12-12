@@ -5,6 +5,13 @@ Várias Classes em PHP para diversos serviços oferecidos pela transportadora Br
 Vale lembrar que para que você possa utilizar estes serviços, você precisará ter um contrato 
 firmado com a Braspress.
 
+Instalação
+==========
+
+Usando composer:
+
+`composer require glauberportella/braspress`
+
 Estrutura das pastas
 ====================
 
